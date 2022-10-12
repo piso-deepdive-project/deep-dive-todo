@@ -22,7 +22,9 @@ This is project buliding a Todo application based on deep-dive
 ### How to Install
 ### Structure or Docs about it
 
-## Version & Configuration Management with Git & Github
+## Version & Configuration Management with Git & Githb
+### Git
+- [How to write issues?](./docs/Git.md#writing-issue-이슈-작성하기)
 ### Git flow strategy 
 - What is Git flow?
 - [How to join project?](./docs/GitFlow.md#how-to-join-project)
