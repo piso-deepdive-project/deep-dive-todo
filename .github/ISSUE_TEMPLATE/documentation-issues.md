@@ -1,7 +1,7 @@
 ---
 name: Documentation Issues
 about: Create documentaition
-title: "[Docs] (#issue id or number 이슈 번호 적어주세요.) "
+title: "[Docs]  "
 labels: ''
 assignees: ''
 
