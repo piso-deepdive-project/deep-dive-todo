@@ -32,7 +32,7 @@ class Todo {
         return [this.#done, this.#done_date];
     }
     
-    set toggleDone(done){
+    set done(done){
         this.#done = !done;
         this.#done_date = new Date();
     }
