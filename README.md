@@ -18,6 +18,9 @@ This is project buliding a Todo application based on deep-dive
 
 # Technologies
 
+## NPM 
+[packages that we used](./docs/Technologies/NPM/package.md)
+
 ## Styling with /CSS FW or LIB or PURE ETC/
 ### Why this
 ### How to Install
