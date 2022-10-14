@@ -18,6 +18,9 @@ This is project buliding a Todo application based on deep-dive
 
 # 기술
 
+## NPM 
+[사용한 패키지](./docs/Technologies/NPM/package-kr.md)
+
 ## 스타일
 ### Why this
 ### How to Install

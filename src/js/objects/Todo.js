@@ -25,7 +25,6 @@ class Todo {
             title:this.#title,
             content:this.#content,
             reg_date:this.#reg_date,
-            todo_list_id: this.#todo_list_id,
         };
     }
 
